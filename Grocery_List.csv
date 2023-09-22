@@ -1,0 +1,136 @@
+,quantity,price_per_unit,Category
+Apples,2.5,$1.50,Fresh_Produce
+Bananas,2.0,$2.50,Fresh_Produce
+Strawberries,0.5,$1.50,Fresh_Produce
+Avocados,1.5,$0.50,Fresh_Produce
+Bell Peppers,4.5,$1.42,Fresh_Produce
+Carrots,2.5,$1.57,Fresh_Produce
+Potatoes,3.5,$2.50,Fresh_Produce
+Spinach,1.5,$1.50,Fresh_Produce
+Tomatoes,6.5,$4.50,Fresh_Produce
+Mangoes,5.5,$5.50,Fresh_Produce
+Kiwi,2.5,$5.50,Fresh_Produce
+Papaya,5.5,$5.50,Fresh_Produce
+Peaches,10.0,$7.51,Fresh_Produce
+Pears,2.5,$5.50,Fresh_Produce
+Watermelon,10.5,$10.50,Fresh_Produce
+Breadcrumbs,1.5,$12.50,Grains
+Pasta,2.5,$5.50,Grains
+Quinoa,0.5,$1.50,Grains
+Rice,5.0,$1.50,Grains
+Sandwich Bread,1.5,$1.50,Grains
+Tortillas,1.5,$1.50,Grains
+Oatmeal,10.5,$2.50,Grains
+Barley,1.5,$3.50,Grains
+Bulgur,1.5,$1.50,Grains
+Couscous,1.5,$2.50,Grains
+Cornmeal,1.5,$3.50,Grains
+Whole wheat tortillas,0.5,$2.50,Grains
+Farro,0.5,$5.50,Grains
+Millet,0.5,$4.50,Grains
+Wild rice,12.5,$1.50,Grains
+Chicken breasts,2.5,$5.50,Meat
+Ground beef,5.5,$8.50,Meat
+Pork chops,0.5,$15.50,Meat
+Salmon fillets,12.5,$25.50,Meat
+Turkey,2.5,$5.50,Meat
+Bacon,10.5,$35.50,Meat
+Lamb chops,5.5,$15.50,Meat
+Shrimp,0.5,$5.50,Meat
+Tilapia fillets,0.5,$9.50,Meat
+Sausages,1.5,$7.50,Meat
+Beef steaks,2.5,$15.50,Meat
+Ground turkey,3.5,$12.50,Meat
+Pork tenderloin,1.5,$5.50,Meat
+Ham,3.5,$6.50,Meat
+Duck breast,7.5,$8.50,Meat
+Milk,2.0,$8.50,Dairy
+Eggs,2.0,$5.50,Dairy
+Butter,3.0,$7.50,Dairy
+Yogurt,25.0,$2.50,Dairy
+Cheese,7.0,$10.50,Dairy
+Sour cream,5.0,$18.50,Dairy
+Cottage cheese,1.0,$12.50,Dairy
+Cream cheese,5.0,$11.50,Dairy
+Heavy cream,2.0,$7.50,Dairy
+Whipping cream,3.0,$8.50,Dairy
+Buttermilk,4.0,$6.50,Dairy
+Ricotta cheese,1.0,$15.50,Dairy
+Parmesan cheese,2.0,$14.50,Dairy
+Gouda cheese,7.0,$18.50,Dairy
+Goat cheese,6.0,$28.50,Dairy
+Baking powder,2.0,$2.50,Baking_Goods
+Baking Soda,6.0,$8.50,Baking_Goods
+Granulated Sugar,10.0,$3.50,Baking_Goods
+Brown Sugar,3.0,$5.50,Baking_Goods
+Flour,2.0,$1.50,Baking_Goods
+Honey,5.0,$2.50,Baking_Goods
+Vanilla Extract,3.0,$2.50,Baking_Goods
+Dry Yeast,6.0,$2.50,Baking_Goods
+Chocolate Chips,10.0,$2.50,Baking_Goods
+Cocoa Powder,5.0,$1.50,Baking_Goods
+Powdered Sugar,5.0,$2.50,Baking_Goods
+Food coloring,2.0,$3.50,Baking_Goods
+Sprinkles,5.0,$1.50,Baking_Goods
+Powdered sugar,6.0,$2.50,Baking_Goods
+Almond extract,6.0,$8.50,Baking_Goods
+Berries,5.0,$2.50,Freezer
+Frozen Veggies,2.0,$3.50,Freezer
+Juice Concentrate,3.0,$1.50,Freezer
+Pizza,10.0,$5.50,Freezer
+Convenience Meals,5.0,$8.50,Freezer
+Pie Crust,2.0,$6.50,Freezer
+Cookie Dough,3.0,$4.50,Freezer
+Shrimp,4.0,$1.50,Freezer
+Ice cream,2.0,$4.50,Freezer
+dumplings,1.0,$3.50,Freezer
+appetizers,4.0,$2.50,Freezer
+seafood,10.0,$9.50,Freezer
+Waffles,15.0,$7.50,Freezer
+Pancakes,7.0,$5.50,Freezer
+Potstickers,6.0,$2.50,Freezer
+Chicken stock,4.0,$7.50,Canned
+Broth,2.0,$1.50,Canned
+Salsa,6.0,$2.50,Canned
+Diced Tomatoes,5.0,$3.50,Canned
+Jam,2.0,$2.50,Canned
+Jelly,6.0,$1.50,Canned
+Peanut Butter,4.0,$4.50,Canned
+Pasta Sauce,10.0,$3.50,Canned
+Beans,3.0,$2.50,Canned
+Soups,5.0,$1.50,Canned
+Tuna,6.0,$2.50,Canned
+Green Chiles,6.0,$2.50,Canned
+Canned Veggies,5.0,$2.50,Canned
+Coffee,10.0,$2.50,Canned
+Tea,15.0,$2.50,Canned
+Black Pepper,1.0,$1.50,Condiments
+Chili Powder,2.0,$2.50,Condiments
+Cinnamon,3.0,$3.50,Condiments
+Crushed Red Pepper,5.0,$0.50,Condiments
+Cumin,4.0,$2.50,Condiments
+Garlic Powder,5.0,$5.50,Condiments
+Ketchup,15.0,$2.50,Condiments
+Mustard,10.0,$2.50,Condiments
+Mayo,25.0,$3.50,Condiments
+Nutmeg,5.0,$2.50,Condiments
+Paprika,3.0,$2.50,Condiments
+Salt,5.0,$1.50,Condiments
+Soy Sauce,5.0,$4.50,Condiments
+Steak Sauce,15.0,$3.50,Condiments
+Buffalo Sauce,15.0,$4.50,Condiments
+Coconut Oil,5.0,$15.50,Oils_Vinegars
+Olive Oil,5.0,$25.50,Oils_Vinegars
+Vegetable,15.0,$4.50,Oils_Vinegars
+Canola Oil,1.0,$14.50,Oils_Vinegars
+Peanut oil,1.0,$24.50,Oils_Vinegars
+Avocado oil,5.0,$34.50,Oils_Vinegars
+Sesame oil,5.0,$24.50,Oils_Vinegars
+Grapeseed oil,5.0,$34.50,Oils_Vinegars
+Walnut oil,5.0,$24.50,Oils_Vinegars
+Apple cider vinegar,10.0,$14.50,Oils_Vinegars
+Balsamic vinegar,5.0,$25.50,Oils_Vinegars
+Red Wine Vinegar,10.0,$30.50,Oils_Vinegars
+White Vinegar,15.0,$25.50,Oils_Vinegars
+Cooking Wine,15.0,$25.50,Oils_Vinegars
+White Wine Vinegar,5.0,$34.50,Oils_Vinegars
