@@ -1,0 +1,136 @@
+,items,quantity,price_per_unit,Category,Priority
+0,Apples,2.5,$1.50 ,Fresh_Produce,Low
+1,Bananas,2.0,$2.50 ,Fresh_Produce,Low
+2,Strawberries,0.5,$1.50 ,Fresh_Produce,Low
+3,Avocados,1.5,$0.50 ,Fresh_Produce,Low
+4,Bell Peppers,4.5,$1.42 ,Fresh_Produce,Low
+5,Carrots,2.5,$1.57 ,Fresh_Produce,Low
+6,Potatoes,3.5,$2.50 ,Fresh_Produce,Low
+7,Spinach,1.5,$1.50 ,Fresh_Produce,Low
+8,Tomatoes,6.5,$4.50 ,Fresh_Produce,Medium
+9,Mangoes,5.5,$5.50 ,Fresh_Produce,Medium
+10,Kiwi,2.5,$5.50 ,Fresh_Produce,Low
+11,Papaya,5.5,$5.50 ,Fresh_Produce,Medium
+12,Peaches,10.0,$7.51 ,Fresh_Produce,Medium
+13,Pears,2.5,$5.50 ,Fresh_Produce,Low
+14,Watermelon,10.5,$10.50 ,Fresh_Produce,Medium
+15,Breadcrumbs,1.5,$12.50 ,Grains,Low
+16,Pasta,2.5,$5.50 ,Grains,Low
+17,Quinoa,0.5,$1.50 ,Grains,Low
+18,Rice,5.0,$1.50 ,Grains,Low
+19,Sandwich Bread,1.5,$1.50 ,Grains,Low
+20,Tortillas,1.5,$1.50 ,Grains,Low
+21,Oatmeal,10.5,$2.50 ,Grains,Medium
+22,Barley,1.5,$3.50 ,Grains,Low
+23,Bulgur,1.5,$1.50 ,Grains,Low
+24,Couscous,1.5,$2.50 ,Grains,Low
+25,Cornmeal,1.5,$3.50 ,Grains,Low
+26,Whole wheat tortillas,0.5,$2.50 ,Grains,Low
+27,Farro,0.5,$5.50 ,Grains,Low
+28,Millet,0.5,$4.50 ,Grains,Low
+29,Wild rice,12.5,$1.50 ,Grains,Medium
+30,Chicken breasts,2.5,$5.50 ,Meat,Low
+31,Ground beef,5.5,$8.50 ,Meat,Medium
+32,Pork chops,0.5,$15.50 ,Meat,Low
+33,Salmon fillets,12.5,$25.50 ,Meat,Medium
+34,Turkey,2.5,$5.50 ,Meat,Low
+35,Bacon,10.5,$35.50 ,Meat,Medium
+36,Lamb chops,5.5,$15.50 ,Meat,Medium
+37,Shrimp,0.5,$5.50 ,Meat,Low
+38,Tilapia fillets,0.5,$9.50 ,Meat,Low
+39,Sausages,1.5,$7.50 ,Meat,Low
+40,Beef steaks,2.5,$15.50 ,Meat,Low
+41,Ground turkey,3.5,$12.50 ,Meat,Low
+42,Pork tenderloin,1.5,$5.50 ,Meat,Low
+43,Ham,3.5,$6.50 ,Meat,Low
+44,Duck breast,7.5,$8.50 ,Meat,Medium
+45,Milk,2.0,$8.50 ,Dairy,Low
+46,Eggs,2.0,$5.50 ,Dairy,Low
+47,Butter,3.0,$7.50 ,Dairy,Low
+48,Yogurt,25.0,$2.50 ,Dairy,High
+49,Cheese,7.0,$10.50 ,Dairy,Medium
+50,Sour cream,5.0,$18.50 ,Dairy,Low
+51,Cottage cheese,1.0,$12.50 ,Dairy,Low
+52,Cream cheese,5.0,$11.50 ,Dairy,Low
+53,Heavy cream,2.0,$7.50 ,Dairy,Low
+54,Whipping cream,3.0,$8.50 ,Dairy,Low
+55,Buttermilk,4.0,$6.50 ,Dairy,Low
+56,Ricotta cheese,1.0,$15.50 ,Dairy,Low
+57,Parmesan cheese,2.0,$14.50 ,Dairy,Low
+58,Gouda cheese,7.0,$18.50 ,Dairy,Medium
+59,Goat cheese,6.0,$28.50 ,Dairy,Medium
+60,Baking powder,2.0,$2.50 ,Baking_Goods,Low
+61,Baking Soda,6.0,$8.50 ,Baking_Goods,Medium
+62,Granulated Sugar,10.0,$3.50 ,Baking_Goods,Medium
+63,Brown Sugar,3.0,$5.50 ,Baking_Goods,Low
+64,Flour,2.0,$1.50 ,Baking_Goods,Low
+65,Honey,5.0,$2.50 ,Baking_Goods,Low
+66,Vanilla Extract,3.0,$2.50 ,Baking_Goods,Low
+67,Dry Yeast,6.0,$2.50 ,Baking_Goods,Medium
+68,Chocolate Chips,10.0,$2.50 ,Baking_Goods,Medium
+69,Cocoa Powder,5.0,$1.50 ,Baking_Goods,Low
+70,Powdered Sugar,5.0,$2.50 ,Baking_Goods,Low
+71,Food coloring,2.0,$3.50 ,Baking_Goods,Low
+72,Sprinkles,5.0,$1.50 ,Baking_Goods,Low
+73,Powdered sugar,6.0,$2.50 ,Baking_Goods,Medium
+74,Almond extract,6.0,$8.50 ,Baking_Goods,Medium
+75,Berries,5.0,$2.50 ,Freezer,Low
+76,Frozen Veggies,2.0,$3.50 ,Freezer,Low
+77,Juice Concentrate,3.0,$1.50 ,Freezer,Low
+78,Pizza,10.0,$5.50 ,Freezer,Medium
+79,Convenience Meals,5.0,$8.50 ,Freezer,Low
+80,Pie Crust,2.0,$6.50 ,Freezer,Low
+81,Cookie Dough,3.0,$4.50 ,Freezer,Low
+82,Shrimp,4.0,$1.50 ,Freezer,Low
+83,Ice cream,2.0,$4.50 ,Freezer,Low
+84,dumplings,1.0,$3.50 ,Freezer,Low
+85,appetizers,4.0,$2.50 ,Freezer,Low
+86,seafood,10.0,$9.50 ,Freezer,Medium
+87,Waffles,15.0,$7.50 ,Freezer,Medium
+88,Pancakes,7.0,$5.50 ,Freezer,Medium
+89,Potstickers,6.0,$2.50 ,Freezer,Medium
+90,Chicken stock,4.0,$7.50 ,Canned,Low
+91,Broth,2.0,$1.50 ,Canned,Low
+92,Salsa,6.0,$2.50 ,Canned,Medium
+93,Diced Tomatoes,5.0,$3.50 ,Canned,Low
+94,Jam,2.0,$2.50 ,Canned,Low
+95,Jelly,6.0,$1.50 ,Canned,Medium
+96,Peanut Butter,4.0,$4.50 ,Canned,Low
+97,Pasta Sauce,10.0,$3.50 ,Canned,Medium
+98,Beans,3.0,$2.50 ,Canned,Low
+99,Soups,5.0,$1.50 ,Canned,Low
+100,Tuna,6.0,$2.50 ,Canned,Medium
+101,Green Chiles,6.0,$2.50 ,Canned,Medium
+102,Canned Veggies,5.0,$2.50 ,Canned,Low
+103,Coffee,10.0,$2.50 ,Canned,Medium
+104,Tea,15.0,$2.50 ,Canned,Medium
+105,Black Pepper,1.0,$1.50 ,Condiments,Low
+106,Chili Powder,2.0,$2.50 ,Condiments,Low
+107,Cinnamon,3.0,$3.50 ,Condiments,Low
+108,Crushed Red Pepper,5.0,$0.50 ,Condiments,Low
+109,Cumin,4.0,$2.50 ,Condiments,Low
+110,Garlic Powder,5.0,$5.50 ,Condiments,Low
+111,Ketchup,15.0,$2.50 ,Condiments,Medium
+112,Mustard,10.0,$2.50 ,Condiments,Medium
+113,Mayo,25.0,$3.50 ,Condiments,High
+114,Nutmeg,5.0,$2.50 ,Condiments,Low
+115,Paprika,3.0,$2.50 ,Condiments,Low
+116,Salt,5.0,$1.50 ,Condiments,Low
+117,Soy Sauce,5.0,$4.50 ,Condiments,Low
+118,Steak Sauce,15.0,$3.50 ,Condiments,Medium
+119,Buffalo Sauce,15.0,$4.50 ,Condiments,Medium
+120,Coconut Oil,5.0,$15.50 ,Oils_Vinegars,Low
+121,Olive Oil,5.0,$25.50 ,Oils_Vinegars,Low
+122,Vegetable,15.0,$4.50 ,Oils_Vinegars,Medium
+123,Canola Oil,1.0,$14.50 ,Oils_Vinegars,Low
+124,Peanut oil,1.0,$24.50 ,Oils_Vinegars,Low
+125,Avocado oil,5.0,$34.50 ,Oils_Vinegars,Low
+126,Sesame oil,5.0,$24.50 ,Oils_Vinegars,Low
+127,Grapeseed oil,5.0,$34.50 ,Oils_Vinegars,Low
+128,Walnut oil,5.0,$24.50 ,Oils_Vinegars,Low
+129,Apple cider vinegar,10.0,$14.50 ,Oils_Vinegars,Medium
+130,Balsamic vinegar,5.0,$25.50 ,Oils_Vinegars,Low
+131,Red Wine Vinegar,10.0,$30.50 ,Oils_Vinegars,Medium
+132,White Vinegar,15.0,$25.50 ,Oils_Vinegars,Medium
+133,Cooking Wine,15.0,$25.50 ,Oils_Vinegars,Medium
+134,White Wine Vinegar,5.0,$34.50 ,Oils_Vinegars,Low
